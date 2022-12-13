@@ -10,4 +10,6 @@
 1. NewArray - это создание, а за тем вывод нужного массива;
 2. InputArray - ввод массива;
 
-# Блок-схема![diagram (5)](https://user-images.githubusercontent.com/118004424/207310633-fd748fc5-57aa-4f31-8035-70caff555e85.png)
+# Блок-схема
+
+![diagram (5)](https://user-images.githubusercontent.com/118004424/207310633-fd748fc5-57aa-4f31-8035-70caff555e85.png)
